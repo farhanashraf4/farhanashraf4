@@ -6,9 +6,9 @@
 
 Welcome to my GitHub profile!
 
-**🔹 Implemented diverse real-time applications, from DDoS attack detection to sentiment analysis and face recognition.
+🔹 I've implemented diverse real-time applications, from DDoS attack detection to sentiment analysis and face recognition.
 
-**🔹 Proficient in JAVA, C++, and Python, with expertise in data structures and algorithms, data preprocessing and text embeddings.
+🔹 Experienced in Python, C++, and Java; knowledgeable in text embeddings, data preparation, and algorithms and structures.
 
 💬 Feel free to ask me anything or connect me!
 

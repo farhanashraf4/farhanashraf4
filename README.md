@@ -1,6 +1,14 @@
-# Hi there, I'm Farhan Ashraf 👋
+<p align="center">
+  # Hi there, I'm Farhan Ashraf 👋
+</p>
 
-Welcome to my GitHub profile! 
+Welcome to my GitHub profile!
+
+**🔹 Passionate about Deep Learning and AI**: Leveraging advanced frameworks like TensorFlow and Keras to develop cutting-edge solutions.
+
+**🔹 Experienced in Real-Time Projects**: Implemented diverse real-time applications, from DDoS attack detection to sentiment analysis and face recognition.
+
+**🔹 Skilled in Multiple Programming Languages**: Proficient in JAVA, C++, and Python, with expertise in data structures and algorithms, data preprocessing and text embeddings.
 
 ## 📫 Connect
 

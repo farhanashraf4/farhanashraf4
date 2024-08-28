@@ -33,7 +33,7 @@ Here are some of the real-time projects I've worked on:
 
 - **Internship at National Institute of Technology Patna**
   - Duration: 02-01-2024 to 02-07-2024
-  - Worked on various projects, enhancing skills and knowledge in practical applications of computer science.
+  - Worked on various real time projects which deals with deep learning, enhancing skills and knowledge in practical applications of computer science.
 
 ## 📫 Get in Touch
 

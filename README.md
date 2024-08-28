@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## 📫 Connect
 
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Farhan_Ashraf-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-ashraf-87b01189/) **Email:** [![Email](https://img.shields.io/badge/Email-farhanashraf4@gmail.com-red?logo=gmail&logoColor=white)](mailto:farhanashraf4@gmail.com) **LeetCode:** [![LeetCode](https://img.shields.io/badge/LeetCode-Farhan_Ashraf-blue?logo=leetcode&logoColor=white)](https://leetcode.com/u/farhanashraf4/) **CodeChef:** [![CodeChef](https://img.shields.io/badge/CodeChef-Farhan_Ashraf-orange?logo=codechef&logoColor=white)](https://www.codechef.com/users/farhanashraf)
+-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Farhan_Ashraf-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-ashraf-87b01189/) -[![Email](https://img.shields.io/badge/Email-farhanashraf4@gmail.com-red?logo=gmail&logoColor=white)](mailto:farhanashraf4@gmail.com) -[![LeetCode](https://img.shields.io/badge/LeetCode-Farhan_Ashraf-blue?logo=leetcode&logoColor=white)](https://leetcode.com/u/farhanashraf4/) -[![CodeChef](https://img.shields.io/badge/CodeChef-Farhan_Ashraf-orange?logo=codechef&logoColor=white)](https://www.codechef.com/users/farhanashraf)
 
 ## 🛠️ Skills
 

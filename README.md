@@ -1,6 +1,4 @@
-<p align="center">
-  # Hi there, I'm Farhan Ashraf 👋
-</p>
+                                                                                      # Hi there, I'm Farhan Ashraf 👋
 
 Welcome to my GitHub profile!
 

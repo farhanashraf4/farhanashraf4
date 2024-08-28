@@ -1,6 +1,13 @@
 # Hi there, I'm Farhan Ashraf 👋
 
-Welcome to my GitHub profile! I'm a recent B.Tech graduate in Computer Science and Engineering from Sikkim Manipal Institute of Technology, where I graduated in 2024 with a CGPA of 8.5. I’m passionate about technologies and software development, with a strong focus on AI/ML, deep learning, and real-time system implementations.
+Welcome to my GitHub profile! 
+
+## 📫 Connect
+
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Farhan_Ashraf-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-ashraf-87b01189/)
+- **Email:** [![Email](https://img.shields.io/badge/Email-farhanashraf4@gmail.com-red?logo=gmail&logoColor=white)](mailto:farhanashraf4@gmail.com)
+- **LeetCode:** [![LeetCode](https://img.shields.io/badge/LeetCode-Farhan_Ashraf-blue?logo=leetcode&logoColor=white)](https://leetcode.com/u/farhanashraf4/)
+- **CodeChef:** [![CodeChef](https://img.shields.io/badge/CodeChef-Farhan_Ashraf-orange?logo=codechef&logoColor=white)](https://www.codechef.com/users/farhanashraf)
 
 ## 🛠️ Skills
 
@@ -17,27 +24,25 @@ Here are some of the real-time projects I've worked on:
    - Developed a specialized DDoS attack detection system for SDN architectures, focusing on real-time detection and scalability.
    - Used CNNs for detection, leveraging TensorFlow and Keras.
 
-2. **[CNN-Based Detection of DDoS Threats in Software Defined Networks](#)**
-   - Created a Convolutional Neural Network-based system for accurate and scalable DDoS attack detection in SDN environments.
-
-3. **[Hotel Review-Based Sentimental Analysis](#)**
+2. **[Hotel Review-Based Sentimental Analysis](#)**
    - Improved sentiment analysis accuracy using deep learning methodologies, including CNNs and advanced embeddings like FastText.
 
-4. **[Improvised Face Detection and Recognition from Video](#)**
+3. **[Improvised Face Detection and Recognition from Video](#)**
    - Enhanced face detection and recognition capabilities from video streams, focusing on real-time performance and accuracy.
 
-5. **[Daily Tracker using DevOps](#)**
-   - Developed a daily tracker application incorporating DevOps principles to streamline workflows and enhance productivity.
-
-## 📚 Internship Experience
+## 📚 Experience
 
 - **Internship at National Institute of Technology Patna**
-  - Duration: 02-01-2024 to 02-07-2024
-  - Worked on various real time projects which deals with deep learning, enhancing skills and knowledge in practical applications of computer science.
+  - Duration: 01-2024 to 07-2024
+  - Worked on various real-time projects dealing with deep learning, enhancing skills and knowledge in practical applications of computer science.
+ 
+## 📊 Most Used Languages
 
-## 📫 Get in Touch
+![Farhan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-ashraf&layout=compact&hide_title=true&hide_border=true)
 
-- **LinkedIn:** linkedin.com/in/farhan-ashraf-87b01189
-- **Email:** farhanashraf4@gmail.com
+## 📊 GitHub Stats
+
+![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhan-ashraf&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true)
 
 Feel free to explore my repositories and connect with me if you have any questions or opportunities!
+

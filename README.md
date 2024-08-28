@@ -36,5 +36,5 @@ Here are some of the real-time projects I've worked on:
    - Enhanced face detection and recognition capabilities from video streams, focusing on real-time performance and accuracy.
     
 
-Feel free to explore my repositories and connect with me if you have any questions or opportunities!
+Feel free to explore my repositories and connect with me if you have any questions!
 

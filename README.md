@@ -8,10 +8,10 @@ Welcome to my GitHub profile!
 
 ## 🛠️ Skills
 
-- **Programming Languages:** JAVA, C++, Python ![JAVA](https://img.shields.io/badge/Language-JAVA-red?logo=java&logoColor=white) ![C++](https://img.shields.io/badge/Language-C%2B%2B-blue?logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Language-Python-yellow?logo=python&logoColor=white)
-- **Deep Learning Frameworks:** TensorFlow, Keras ![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow-orange?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Framework-Keras-red?logo=keras&logoColor=white)
-- **Data Preprocessing:** scikit-learn ![scikit-learn](https://img.shields.io/badge/Tool-scikit%2Dlearn-yellowgreen?logo=scikit-learn&logoColor=white)
-- **Text Embeddings:** GloVe, Word2Vec, FastText, BERT ![GloVe](https://img.shields.io/badge/Embedding-GloVe-blue?logo=python&logoColor=white) ![Word2Vec](https://img.shields.io/badge/Embedding-Word2Vec-blue?logo=python&logoColor=white) ![FastText](https://img.shields.io/badge/Embedding-FastText-blue?logo=python&logoColor=white) ![BERT](https://img.shields.io/badge/Embedding-BERT-blue?logo=python&logoColor=white)
+- **Programming Languages:** JAVA, C++, Python
+- **Deep Learning Frameworks:** TensorFlow, Keras
+- **Data Preprocessing:** scikit-learn
+- **Text Embeddings:** GloVe, Word2Vec, FastText, BERT
 
 ## 🚀 Projects
 
@@ -26,12 +26,6 @@ Here are some of the real-time projects I've worked on:
 
 3. **[Improvised Face Detection and Recognition from Video](#)**
    - Enhanced face detection and recognition capabilities from video streams, focusing on real-time performance and accuracy.
-
-## 📚 Experience
-
-- **Internship at National Institute of Technology Patna**
-  - Duration: 01-2024 to 07-2024
-  - Worked on various real-time projects dealing with deep learning, enhancing skills and knowledge in practical applications of computer science.
     
 
 Feel free to explore my repositories and connect with me if you have any questions or opportunities!

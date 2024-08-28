@@ -1,4 +1,8 @@
-                                                                                      # Hi there, I'm Farhan Ashraf 👋
+<div align="center">
+
+# Hi there, I'm Farhan Ashraf 👋
+
+</div>
 
 Welcome to my GitHub profile!
 
@@ -34,5 +38,5 @@ Here are some of the real-time projects I've worked on:
    - Enhanced face detection and recognition capabilities from video streams, focusing on real-time performance and accuracy.
     
 
-Feel free to explore my repositories and connect with me if you have any questions!
+Feel free to explore my repositories and connect with me if you have any questions!📬
 

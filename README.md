@@ -14,7 +14,9 @@
 
 ### 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-ashraf-87b01189/) [![Email](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:farhanashraf4@gmail.com) [![LeetCode](https://img.shields.io/badge/-LeetCode-blue?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/farhanashraf4/) [![CodeChef](https://img.shields.io/badge/-CodeChef-orange?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/farhanashraf)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-ashraf-87b01189/)  [![Email](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:farhanashraf4@gmail.com)  [![LeetCode](https://img.shields.io/badge/-LeetCode-blue?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/farhanashraf4/) 
+ [![CodeChef](https://img.shields.io/badge/-CodeChef-orange?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/farhanashraf)  [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/27192760/farhan-ashraf)
+
 
 
 ### 🛠️ Skills

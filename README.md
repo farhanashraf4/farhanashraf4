@@ -45,15 +45,15 @@
 
 1. **[CNN Based Detection of DDoS Threats in Software Defined Networks](https://github.com/farhanashraf4/CNN-Based-Detection-of-DDoS-Threats-in-Software-Defined-Networks)**
    - 🛡️ **Objective:** Developed a specialized DDoS attack detection system tailored for Software Defined Networking (SDN) architectures.
-   - 🧠 **Technologies:** Leveraged CNNs with TensorFlow and Keras for real-time detection and scalability.
+   - 🧠 **Technologies:** Leveraged CNNs with TensorFlow and Keras for real-time detection, scalability and achieved an accuracy of 99.77%.
 
 2. **[Hotel Review-Based Sentimental Analysis](https://github.com/farhanashraf4/Hotel-Review-Based-Sentimental-Analysis)**
    - 🏨 **Objective:** Enhanced sentiment analysis for hotel reviews using deep learning.
-   - 🌐 **Technologies:** Achieved high accuracy by implementing CNNs with advanced embeddings like FastText.
+   - 🌐 **Technologies:** Achieved a high accuracy of 98.65% by implementing CNNs with advanced embeddings like FastText.
 
 3. **[Improvised Face Detection and Recognition from Video](https://github.com/farhanashraf4/Improvised-Face-Detection-and-Recognition-from-video)**
-   - 📹 **Objective:** Improved face detection and recognition from video streams with a focus on real-time performance.
-   - 🎯 **Technologies:** Applied advanced algorithms to boost accuracy and speed in video processing.
+   - 📹 **Objective:** Improved face detection and recognition from video streams focusing on real-time performance.
+   - 🎯 **Technologies:** Applied advanced MTCNN algorithm to boost accuracy and speed in video processing.
     
 
 Feel free to explore my repositories and connect with me if you have any questions!📬

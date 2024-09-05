@@ -21,7 +21,7 @@
 
 ### 🛠️ Skills
 
-- **Programming Languages:** [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)  [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))  [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)](https://isocpp.org/)  [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/)
+- **Programming Languages:** [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)  [![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=Jupyter&logoColor=white)](https://jupyter.org/)  [![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)  [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))  [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)](https://isocpp.org/)  [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/)  
   
 - **Web Development:** [![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  [![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
@@ -36,7 +36,6 @@
 - **Data Preprocessing:** [![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
 - **Text Embeddings:** [![GloVe](https://img.shields.io/badge/-GloVe-00A7D0?style=flat)](https://nlp.stanford.edu/projects/glove/)  [![Word2Vec](https://img.shields.io/badge/-Word2Vec-4CAF50?style=flat&logo=Google&logoColor=white)](https://code.google.com/archive/p/word2vec/)  [![FastText](https://img.shields.io/badge/-FastText-0085CA?style=flat&logo=Facebook&logoColor=white)](https://fasttext.cc/)  [![BERT](https://img.shields.io/badge/-BERT-FFA000?style=flat&logo=Google&logoColor=white)](https://github.com/google-research/bert)
-
 
 ## 🚀 Projects
 

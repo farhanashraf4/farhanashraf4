@@ -44,7 +44,7 @@
 
 1. **[CNN Based Detection of DDoS Threats in Software Defined Networks](https://github.com/farhanashraf4/CNN-Based-Detection-of-DDoS-Threats-in-Software-Defined-Networks)**
    - 🎯 **Objective:** Developed a specialized DDoS attack detection system tailored for Software Defined Networking (SDN) architectures.
-   - ⚙️ **Technologies:** Streamlined CNN with TensorFlow and Keras for real-time detection, and scalability and achieved an accuracy of 99.77%.
+   - ⚙️ **Technologies:** Streamlined CNN with TensorFlow and Keras for classification, and scalability and achieved an accuracy of 99.77%.
 
 2. **[Hotel Review-Based Sentimental Analysis](https://github.com/farhanashraf4/Hotel-Review-Based-Sentimental-Analysis)**
    - 🎯 **Objective:** Enhanced sentiment analysis for hotel reviews using deep learning.

@@ -4,7 +4,7 @@
 
 </div>
 
-# Welcome to my GitHub!
+# Welcome to my GitHub! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Profile views](https://komarev.com/ghpvc/?username=farhanashraf4&color=blue)
 
 🔧 I've implemented diverse real-time applications, from DDoS attack detection classification to sentiment analysis and face recognition.
 
@@ -21,23 +21,22 @@
 
 ### 🛠️ Skills
 
-- **Programming Languages:** 
-  [![Java](https://img.shields.io/badge/-Java-blue?style=flat&logo=Java&logoColor=white)](https://www.java.com/) 
-  [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)](https://isocpp.org/) 
-  [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/)
+- **Programming Languages:** [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)  [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))  [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)](https://isocpp.org/)  [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://www.python.org/)
   
-- **Deep Learning Frameworks:** 
-  [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/) 
-  [![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white)](https://keras.io/)
-  
-- **Data Preprocessing:** 
-  [![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+- **Web Development:** [![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  [![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
-- **Text Embeddings:** 
-  [![GloVe](https://img.shields.io/badge/-GloVe-00A7D0?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABzElEQVR42o2SPUsDQRSGn7mV1VJcFlWioBQFxaLQlpL6BoF/oD+f2AX6BWxlZWIiWgRBoJWgKmlZaVI1SNiL6JhkLpLg9/umfJmhEE09CVGJzcO7tN+/Mezof/Y0GkvklciANtAOfAJbgI6EnzV1mC6SkDTFBeJh9KaaHJAuKfCEIDqaSyGjVECk7EhO3fgBCQNfLP+KwxfOAQ6IYUC4mrL/AbJqJrHztVQENABmoNR4wA35D7B56T3EVzQFGgeqiE+GYbMhJDbSY8USU8AyccMLLAay5B9MLqCDJNC1pMGLHttAyPiSzyCay7PA/A26QKwt3Ib0QTXioLEOabG9dxr5KSqJGb4JaNy0pSRUDpeKk5e4nlutU2EGqMzn47Ufi5cswhHWJtH1Fh/gHEGC+AFyudDiPBFCmCCrmN5pRxwFxagDRIfn8m5pHo8RCW4nSldzQehMrTqGvX2HfBEb6enxfyk5xWCRZEFGOYz+DSHv+LQ+moDnGbti0Gxl6XTo6G8s4lP6D2f3Yzk9Z9EOqFLlWuF8nV+aDgSUk7GNSW0VwN/5qQuFL6kts9x2NAlpHro74dlF0S9rfL+l9y0VZylXVVetup9QhXS6VtKoVWl3VPX65TaM35zwMRfVOcazSml0R07CA3HK2twtXHjoAAAAASUVORK5CYII=)](https://nlp.stanford.edu/projects/glove/) 
-  [![Word2Vec](https://img.shields.io/badge/-Word2Vec-4CAF50?style=flat&logo=Google&logoColor=white)](https://code.google.com/archive/p/word2vec/) 
-  [![FastText](https://img.shields.io/badge/-FastText-0085CA?style=flat&logo=Facebook&logoColor=white)](https://fasttext.cc/) 
-  [![BERT](https://img.shields.io/badge/-BERT-FFA000?style=flat&logo=Google&logoColor=white)](https://github.com/google-research/bert)
+- **Databases:** [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)  [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  [![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+
+- **Backend Development:** [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+
+- **Business Intelligence:** [![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
+
+- **Deep Learning Frameworks:** [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)  [![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white)](https://keras.io/)
+
+- **Data Preprocessing:** [![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+
+- **Text Embeddings:** [![GloVe](https://img.shields.io/badge/-GloVe-00A7D0?style=flat)](https://nlp.stanford.edu/projects/glove/)  [![Word2Vec](https://img.shields.io/badge/-Word2Vec-4CAF50?style=flat&logo=Google&logoColor=white)](https://code.google.com/archive/p/word2vec/)  [![FastText](https://img.shields.io/badge/-FastText-0085CA?style=flat&logo=Facebook&logoColor=white)](https://fasttext.cc/)  [![BERT](https://img.shields.io/badge/-BERT-FFA000?style=flat&logo=Google&logoColor=white)](https://github.com/google-research/bert)
+
 
 ## 🚀 Projects
 
@@ -54,6 +53,13 @@
 3. **[Improvised Face Detection and Recognition from Video](https://github.com/farhanashraf4/Improvised-Face-Detection-and-Recognition-from-video)**
    - 🎯 **Objective:** Improved face detection and recognition from video streams focusing on real-time performance.
    - ⚙️ **Technologies:** Applied advanced MTCNN algorithm to boost accuracy and speed in video processing.
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanashraf4&layout=compact&theme=radical" alt="Top Languages" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- Adjust the number of &nbsp; for desired spacing -->
+  <img src="https://github-readme-stats.vercel.app/api?username=farhanashraf4&show_icons=true&theme=radical" alt="Profile stats" />
+</p>
+
     
 
 Feel free to explore my repositories and connect with me if you have any questions!📬

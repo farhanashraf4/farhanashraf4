@@ -30,12 +30,13 @@
 - **Text Embeddings:** [![GloVe](https://img.shields.io/badge/-GloVe-00A7D0?style=flat)](https://nlp.stanford.edu/projects/glove/)  [![Word2Vec](https://img.shields.io/badge/-Word2Vec-4CAF50?style=flat&logo=Google&logoColor=white)](https://code.google.com/archive/p/word2vec/)  [![FastText](https://img.shields.io/badge/-FastText-0085CA?style=flat&logo=Facebook&logoColor=white)](https://fasttext.cc/)  [![BERT](https://img.shields.io/badge/-BERT-FFA000?style=flat&logo=Google&logoColor=white)](https://github.com/google-research/bert)
 
 - **Databases:** [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)  [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  [![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+
+- **Business Intelligence:** [![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
   
 - **Web Development:** [![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  [![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 - **Backend Development:** [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 
-- **Business Intelligence:** [![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
 
 ## 🚀 Projects
 

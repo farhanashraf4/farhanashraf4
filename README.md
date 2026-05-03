@@ -42,9 +42,9 @@
 
 ### Here are some of the real-time projects I've worked on:
 
-1. **[CNN Based Detection of DDoS Threats in Software Defined Networks](https://github.com/farhanashraf4/CNN-Based-Detection-of-DDoS-Threats-in-Software-Defined-Networks)**
-   - 🎯 **Objective:** Developed a specialized DDoS attack detection system tailored for Software Defined Networking (SDN) architectures.
-   - ⚙️ **Technologies:** Streamlined CNN with TensorFlow and Keras for classification, and scalability and achieved an accuracy of 99.77%.
+1. **[Distributed Denial of Service Attack Detection for Software Defined Network Specific Data](https://github.com/farhanashraf4/Distributed-Denial-of-Service-Attack-Detection-for-Software-Defined-Network-Specific-Data)**  
+   - 🎯 **Objective:** Developed a specialized DDoS attack detection system tailored for Software Defined Networking (SDN) environments using network-specific    data.  
+   - ⚙️ **Technologies:** Designed and implemented a streamlined CNN model using TensorFlow and Keras for classification, ensuring scalability and achieving an accuracy of 99.77%.
 
 2. **[Hotel Review-Based Sentimental Analysis](https://github.com/farhanashraf4/Hotel-Review-Based-Sentimental-Analysis)**
    - 🎯 **Objective:** Enhanced sentiment analysis for hotel reviews using deep learning.

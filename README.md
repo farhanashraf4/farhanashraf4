@@ -54,10 +54,12 @@
    - 🎯 **Objective:** Improved face detection and recognition from video streams focusing on real-time performance.
    - ⚙️ **Technologies:** Applied advanced MTCNN algorithm to boost accuracy and speed in video processing.
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanashraf4&layout=compact&theme=radical" alt="Top Languages" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- Adjust the number of &nbsp; for desired spacing -->
-  <img src="https://github-readme-stats.vercel.app/api?username=farhanashraf4&show_icons=true&theme=radical" alt="Profile stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanashraf4&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farhanashraf4&show_icons=true&theme=radical&cache_seconds=1800" alt="Profile Stats" />
 </p>
 
     
